@@ -28,7 +28,7 @@ This project includes classes and functions for a robot simulator that involves 
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/DadaNanjesha/robotics_project.git
+    git clone https://github.com/DadaNanjesha/robotics.git
     ```
 2. Navigate to the project directory:
     ```sh
