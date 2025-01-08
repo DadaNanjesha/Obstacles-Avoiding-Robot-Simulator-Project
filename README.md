@@ -79,4 +79,4 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ## License
 
-This is project is for learning purpose.
+This project is for learning purpose.
