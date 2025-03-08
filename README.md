@@ -2,7 +2,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-This project simulates a robot navigating through an environment using Pygame. The robot can move, avoid obstacles, and update its position and heading based on sensor inputs.
+Welcome to the **Obstacles Avoiding Robot Simulator Project** :  an interactive simulation that brings robotics and AI to life! This project is designed to simulate a robot navigating through a dynamic environment filled with obstacles, using cutting-edge algorithms to avoid collisions.
 
 ![Robot Simulation](robot_simulation.gif)
 
