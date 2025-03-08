@@ -1,4 +1,6 @@
 # Obstacles Avoiding Robot Simulator Project
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Contributions Welcome](https://img.shields.io/badge/Contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 This project simulates a robot navigating through an environment using Pygame. The robot can move, avoid obstacles, and update its position and heading based on sensor inputs.
 
@@ -13,18 +15,32 @@ This project simulates a robot navigating through an environment using Pygame. T
 - [Contributing](#contributing)
 - [License](#license)
 
-## Introduction
+## Overview
 
-This project includes classes and functions for a robot simulator that involves robot movement, obstacle avoidance, sensor functionality, and graphics rendering using Pygame.
+The Obstacles Avoiding Robot Simulator Project is a hands-on platform for enthusiasts and developers alike to experiment with robotics algorithms in a simulated environment. It is ideal for learning about:
+- Sensor integration and real-time data processing.
+- Path planning and obstacle avoidance techniques.
+- Simulation environments for robotics applications.
+
+This simulator provides an excellent base to experiment with various AI techniques, making it a useful tool for both academic purposes and personal projects.
 
 ## Features
 
-- **Robot Movement**: Simulates robot movement in a 2D space.
-- **Obstacle Avoidance**: Detects and avoids obstacles using sensor inputs.
-- **Graphics Rendering**: Renders the robot and environment using Pygame.
-- **Sensor Functionality**: Uses ultrasonic sensors to detect obstacles.
+- **Real-Time Simulation:** Visualize your robot navigating through a dynamic obstacle course.
+- **Customizable Environment:** Easily modify the simulation parameters and add custom obstacles.
+- **Modular Design:** The project structure supports plug-and-play modules for different sensors and control algorithms.
+- **Interactive Controls:** Adjust simulation speed, sensor sensitivity, and robot behavior on the fly.
+- **Extensible Codebase:** Designed with open-source principles in mind, encouraging contributions and enhancements.
+
 
 ## Installation
+
+### Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+- [Python 3.8+](https://www.python.org/downloads/) installed on your machine.
+- Basic knowledge of Python and simulation concepts.
+- Git installed to clone the repository.
 
 1. Clone the repository:
     ```sh
@@ -75,8 +91,14 @@ This project includes classes and functions for a robot simulator that involves 
 
 ## Contributing
 
-Contributions are welcome! Please fork the repository and submit a pull request with your changes.
+Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTING.md) to learn about our code of conduct, pull request process, and more.
+
+If you want to report a bug or suggest a feature, please open an [Issue](https://github.com/DadaNanjesha/Obstacles-Avoiding-Robot-Simulator-Project/issues).
 
 ## License
 
-This project is for learning purpose.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+*Happy Simulating!*
